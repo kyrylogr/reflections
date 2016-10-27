@@ -1,0 +1,3 @@
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+we can add files that were changed for a particular fix to staging area and commit separately.
