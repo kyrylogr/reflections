@@ -5,3 +5,8 @@ when other people are involved or when I want to access the repository from diff
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 diff with the repository will no longer show your changes, but show the changes against a modified remote.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is copy of someones repository that refers to the original and made on github. 
+Clone is a complete copy of repository repote or local. 
+Branch is a term withing the repository that labels line of commits that diverge from the master branch or other branch.
