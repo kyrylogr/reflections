@@ -2,7 +2,17 @@
 
 when other people are involved or when I want to access the repository from different locations (computers).
 
-2. What is the benefit of having a copy of the last known state of the remote stored locally?
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+diff with the repository will no longer show your changes, but show the changes against a modified remote.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is copy of someones repository that refers to the original and made on github. 
+Clone is a complete copy of repository repote or local. 
+Branch is a term withing the repository that labels line of commits that diverge from the master branch or other branch.
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can see the differences with the actual (latest) version, merge with it if you have a different branch before commiting and pushing, or do the changes that will not bring conflicts
 with existing state of remote.
+
