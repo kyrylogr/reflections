@@ -1,3 +1,8 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
 
 when other people are involved or when I want to access the repository from different locations (computers).
+
+2. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can see the differences with the actual (latest) version, merge with it if you have a different branch before commiting and pushing, or do the changes that will not bring conflicts
+with existing state of remote.
