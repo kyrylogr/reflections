@@ -16,3 +16,5 @@ Branch is a term withing the repository that labels line of commits that diverge
 You can see the differences with the actual (latest) version, merge with it if you have a different branch before commiting and pushing, or do the changes that will not bring conflicts
 with existing state of remote.
 
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use another version control system, and it would be harder when several people have to work with the same files at the same time.
