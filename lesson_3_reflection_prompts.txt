@@ -18,3 +18,6 @@ with existing state of remote.
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use another version control system, and it would be harder when several people have to work with the same files at the same time.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If I work with some experimental features that can take long to become mature or if I work on the code that is owned by other people I will choose to use branch. If I am the owner and / or I am sure that my changes are needed right in the master and there is no one to be against that I can push right into the master.
